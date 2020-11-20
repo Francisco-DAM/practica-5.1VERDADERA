@@ -1,0 +1,51 @@
+body.fondo {
+    background-color: lightblue;
+}
+
+div.titulo {
+    text-align: center;
+}
+
+div.texto1 {
+    background-color: grey;
+}
+
+div.subtitulo1 {
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: royalblue;
+}
+
+div.texto2 {
+    background-color: grey;
+}
+
+div.subtitulo2 {
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: royalblue;
+}
+
+div.texto3 {
+    background-color: grey;
+}
+
+div.subtitulo3 {
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: royalblue;
+}
+
+div.subtitulo4 {
+    background-color: lightgray;
+}
+
+div.texto4 {
+    background-color: grey;
+}
+
+address.subindice {
+    background-color: white;
+    text-align: right;
+}
+    
